@@ -1,0 +1,38 @@
+{
+  "name": "@hal/design-tokens",
+  "version": "0.1.0",
+  "description": "Design token build pipeline: Figma DTCG → CSS custom properties + Tailwind v4 theme",
+  "license": "MIT",
+  "homepage": "https://github.com/hferello/",
+  "type": "module",
+  "files": [
+    "dist",
+    "README.md"
+  ],
+  "exports": {
+    "./typographic-ratio/primitives.css": "./dist/typographic-ratio/primitives.css",
+    "./typographic-ratio/tokens.css": "./dist/typographic-ratio/tokens.css",
+    "./typographic-ratio/tailwind-theme.css": "./dist/typographic-ratio/tailwind-theme.css",
+    "./golden-ratio/primitives.css": "./dist/golden-ratio/primitives.css",
+    "./golden-ratio/tokens.css": "./dist/golden-ratio/tokens.css",
+    "./golden-ratio/tailwind-theme.css": "./dist/golden-ratio/tailwind-theme.css",
+    "./base-10-ratio/primitives.css": "./dist/base-10-ratio/primitives.css",
+    "./base-10-ratio/tokens.css": "./dist/base-10-ratio/tokens.css",
+    "./base-10-ratio/tailwind-theme.css": "./dist/base-10-ratio/tailwind-theme.css"
+  },
+  "scripts": {
+    "build": "tsx build/index.ts",
+    "build:all": "tsx build/index.ts --all",
+    "verify": "tsx build/verify.ts",
+    "prepack": "npm run build:all"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
+  "devDependencies": {
+    "@types/node": "^25.5.2",
+    "style-dictionary": "^4.0.0",
+    "tsx": "^4.0.0",
+    "typescript": "^5.0.0"
+  }
+}

@@ -1,0 +1,6 @@
+.cursor/
+build/
+libraries/
+node_modules/
+tsconfig.json
+*.tgz

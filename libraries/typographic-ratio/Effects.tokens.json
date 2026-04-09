@@ -1,0 +1,156 @@
+{
+  "Blur": {
+    "Soft": {
+      "$type": "number",
+      "$value": 4,
+      "$extensions": {
+        "com.figma.variableId": "VariableID:6003:531",
+        "com.figma.scopes": [
+          "EFFECT_FLOAT"
+        ],
+        "com.figma.aliasData": {
+          "targetVariableId": "VariableID:edeb4d829ad84b65c7291565ce92e93114f14360/-1:-1",
+          "targetVariableName": "Number/Positive/75",
+          "targetVariableSetId": "VariableCollectionId:81b8ff39b08d71fc907e43b02aba96ad4c38f1bf/-1:-1",
+          "targetVariableSetName": "Primatives"
+        },
+        "com.figma.isOverride": true
+      }
+    },
+    "Hazy": {
+      "$type": "number",
+      "$value": 12,
+      "$extensions": {
+        "com.figma.variableId": "VariableID:6003:530",
+        "com.figma.scopes": [
+          "EFFECT_FLOAT"
+        ],
+        "com.figma.aliasData": {
+          "targetVariableId": "VariableID:eebcec222e2ea4449e4895181481fc2e026f2534/-1:-1",
+          "targetVariableName": "Number/Positive/200",
+          "targetVariableSetId": "VariableCollectionId:81b8ff39b08d71fc907e43b02aba96ad4c38f1bf/-1:-1",
+          "targetVariableSetName": "Primatives"
+        },
+        "com.figma.isOverride": true
+      }
+    },
+    "Foggy": {
+      "$type": "number",
+      "$value": 18,
+      "$extensions": {
+        "com.figma.variableId": "VariableID:6003:529",
+        "com.figma.scopes": [
+          "EFFECT_FLOAT"
+        ],
+        "com.figma.aliasData": {
+          "targetVariableId": "VariableID:a5fe2f6c538b6c9e1edd2c09e77dcb9ff19ee32f/-1:-1",
+          "targetVariableName": "Number/Positive/500",
+          "targetVariableSetId": "VariableCollectionId:81b8ff39b08d71fc907e43b02aba96ad4c38f1bf/-1:-1",
+          "targetVariableSetName": "Primatives"
+        },
+        "com.figma.isOverride": true
+      }
+    },
+    "Void": {
+      "$type": "number",
+      "$value": 36,
+      "$extensions": {
+        "com.figma.variableId": "VariableID:6003:528",
+        "com.figma.scopes": [
+          "EFFECT_FLOAT"
+        ],
+        "com.figma.aliasData": {
+          "targetVariableId": "VariableID:66f60948100bba37f11f9f7239ae6af8f1de3f29/-1:-1",
+          "targetVariableName": "Number/Positive/700",
+          "targetVariableSetId": "VariableCollectionId:81b8ff39b08d71fc907e43b02aba96ad4c38f1bf/-1:-1",
+          "targetVariableSetName": "Primatives"
+        },
+        "com.figma.isOverride": true
+      }
+    }
+  },
+  "Opacity": {
+    "Full": {
+      "$type": "number",
+      "$value": 100,
+      "$extensions": {
+        "com.figma.variableId": "VariableID:6003:553",
+        "com.figma.scopes": [
+          "OPACITY"
+        ],
+        "com.figma.isOverride": true
+      }
+    },
+    "High": {
+      "$type": "number",
+      "$value": 36,
+      "$extensions": {
+        "com.figma.variableId": "VariableID:6003:546",
+        "com.figma.scopes": [
+          "OPACITY"
+        ],
+        "com.figma.aliasData": {
+          "targetVariableId": "VariableID:66f60948100bba37f11f9f7239ae6af8f1de3f29/-1:-1",
+          "targetVariableName": "Number/Positive/700",
+          "targetVariableSetId": "VariableCollectionId:81b8ff39b08d71fc907e43b02aba96ad4c38f1bf/-1:-1",
+          "targetVariableSetName": "Primatives"
+        },
+        "com.figma.isOverride": true
+      }
+    },
+    "Medium": {
+      "$type": "number",
+      "$value": 16,
+      "$extensions": {
+        "com.figma.variableId": "VariableID:6003:545",
+        "com.figma.scopes": [
+          "OPACITY"
+        ],
+        "com.figma.aliasData": {
+          "targetVariableId": "VariableID:94476600e08ccc8884f4b8301b8f3e4b88821e7e/-1:-1",
+          "targetVariableName": "Number/Positive/400",
+          "targetVariableSetId": "VariableCollectionId:81b8ff39b08d71fc907e43b02aba96ad4c38f1bf/-1:-1",
+          "targetVariableSetName": "Primatives"
+        },
+        "com.figma.isOverride": true
+      }
+    },
+    "Low": {
+      "$type": "number",
+      "$value": 8,
+      "$extensions": {
+        "com.figma.variableId": "VariableID:6003:544",
+        "com.figma.scopes": [
+          "OPACITY"
+        ],
+        "com.figma.aliasData": {
+          "targetVariableId": "VariableID:c66c13784bc588e7847788f70240701f1fa5acbd/-1:-1",
+          "targetVariableName": "Number/Positive/100",
+          "targetVariableSetId": "VariableCollectionId:81b8ff39b08d71fc907e43b02aba96ad4c38f1bf/-1:-1",
+          "targetVariableSetName": "Primatives"
+        },
+        "com.figma.isOverride": true
+      }
+    },
+    "Faint": {
+      "$type": "number",
+      "$value": 2,
+      "$extensions": {
+        "com.figma.variableId": "VariableID:6003:543",
+        "com.figma.scopes": [
+          "OPACITY"
+        ],
+        "com.figma.aliasData": {
+          "targetVariableId": "VariableID:f447a8503df42a261cc12bb1b99f3c83dd89a171/-1:-1",
+          "targetVariableName": "Number/Positive/50",
+          "targetVariableSetId": "VariableCollectionId:81b8ff39b08d71fc907e43b02aba96ad4c38f1bf/-1:-1",
+          "targetVariableSetName": "Primatives"
+        },
+        "com.figma.isOverride": true
+      }
+    }
+  },
+  "$extensions": {
+    "com.figma.modeName": "Mode 1"
+  }
+}

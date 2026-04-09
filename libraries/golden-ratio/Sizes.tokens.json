@@ -1,0 +1,181 @@
+{
+  "Border": {
+    "Radius": {
+      "Sharp": {
+        "$type": "number",
+        "$value": 0,
+        "$extensions": {
+          "com.figma.variableId": "VariableID:6009:434",
+          "com.figma.scopes": [
+            "CORNER_RADIUS"
+          ],
+          "com.figma.aliasData": {
+            "targetVariableId": "VariableID:a8f566c000da3f1e7cbe89e5290dc57a8fe21ce1/-1:-1",
+            "targetVariableName": "Number/Positive/0",
+            "targetVariableSetId": "VariableCollectionId:934daa29146fce42a634f8e657dd622de965ae68/-1:-1",
+            "targetVariableSetName": "Primatives"
+          },
+          "com.figma.isOverride": true
+        }
+      },
+      "Subtle": {
+        "$type": "number",
+        "$value": 4,
+        "$extensions": {
+          "com.figma.variableId": "VariableID:6003:516",
+          "com.figma.scopes": [
+            "CORNER_RADIUS"
+          ],
+          "com.figma.aliasData": {
+            "targetVariableId": "VariableID:a434255b0e807fc4fc82f32c9ab8b07d8f1e3827/-1:-1",
+            "targetVariableName": "Number/Positive/75",
+            "targetVariableSetId": "VariableCollectionId:934daa29146fce42a634f8e657dd622de965ae68/-1:-1",
+            "targetVariableSetName": "Primatives"
+          },
+          "com.figma.isOverride": true
+        }
+      },
+      "Soft": {
+        "$type": "number",
+        "$value": 8,
+        "$extensions": {
+          "com.figma.variableId": "VariableID:6003:552",
+          "com.figma.scopes": [
+            "CORNER_RADIUS"
+          ],
+          "com.figma.aliasData": {
+            "targetVariableId": "VariableID:c7213274dc15857e6fa6dc98ed4c0ec9a5750cba/-1:-1",
+            "targetVariableName": "Number/Positive/100",
+            "targetVariableSetId": "VariableCollectionId:934daa29146fce42a634f8e657dd622de965ae68/-1:-1",
+            "targetVariableSetName": "Primatives"
+          },
+          "com.figma.isOverride": true
+        }
+      },
+      "Rounded": {
+        "$type": "number",
+        "$value": 21,
+        "$extensions": {
+          "com.figma.variableId": "VariableID:6009:435",
+          "com.figma.scopes": [
+            "CORNER_RADIUS"
+          ],
+          "com.figma.aliasData": {
+            "targetVariableId": "VariableID:b113252a0ece8c8ddd3281e666c54e8d39d30c3e/-1:-1",
+            "targetVariableName": "Number/Positive/300",
+            "targetVariableSetId": "VariableCollectionId:934daa29146fce42a634f8e657dd622de965ae68/-1:-1",
+            "targetVariableSetName": "Primatives"
+          },
+          "com.figma.isOverride": true
+        }
+      },
+      "Pill": {
+        "$type": "number",
+        "$value": 55,
+        "$extensions": {
+          "com.figma.variableId": "VariableID:6003:514",
+          "com.figma.scopes": [
+            "CORNER_RADIUS"
+          ],
+          "com.figma.aliasData": {
+            "targetVariableId": "VariableID:59432a6e8cdf8cb1a6545a7b11ecc3f275a555a2/-1:-1",
+            "targetVariableName": "Number/Positive/500",
+            "targetVariableSetId": "VariableCollectionId:934daa29146fce42a634f8e657dd622de965ae68/-1:-1",
+            "targetVariableSetName": "Primatives"
+          },
+          "com.figma.isOverride": true
+        }
+      },
+      "Circular": {
+        "$type": "number",
+        "$value": 9999,
+        "$extensions": {
+          "com.figma.variableId": "VariableID:6003:513",
+          "com.figma.scopes": [
+            "CORNER_RADIUS"
+          ],
+          "com.figma.aliasData": {
+            "targetVariableId": "VariableID:6c4bb8759ca546c87adf9c5a6093013633c79fa3/-1:-1",
+            "targetVariableName": "Number/Positive/Infinite",
+            "targetVariableSetId": "VariableCollectionId:934daa29146fce42a634f8e657dd622de965ae68/-1:-1",
+            "targetVariableSetName": "Primatives"
+          },
+          "com.figma.isOverride": true
+        }
+      }
+    },
+    "Weight": {
+      "Hairline": {
+        "$type": "number",
+        "$value": 1,
+        "$extensions": {
+          "com.figma.variableId": "VariableID:6003:497",
+          "com.figma.scopes": [
+            "STROKE_FLOAT"
+          ],
+          "com.figma.aliasData": {
+            "targetVariableId": "VariableID:3d5d91943c51e4feec5fd8c35b3c6dadd8351186/-1:-1",
+            "targetVariableName": "Number/Positive/25",
+            "targetVariableSetId": "VariableCollectionId:934daa29146fce42a634f8e657dd622de965ae68/-1:-1",
+            "targetVariableSetName": "Primatives"
+          },
+          "com.figma.isOverride": true
+        }
+      },
+      "Defined": {
+        "$type": "number",
+        "$value": 2,
+        "$extensions": {
+          "com.figma.variableId": "VariableID:6003:496",
+          "com.figma.scopes": [
+            "STROKE_FLOAT"
+          ],
+          "com.figma.aliasData": {
+            "targetVariableId": "VariableID:b549afbc934c0b7bef7117caa50cd2e724b842ba/-1:-1",
+            "targetVariableName": "Number/Positive/50",
+            "targetVariableSetId": "VariableCollectionId:934daa29146fce42a634f8e657dd622de965ae68/-1:-1",
+            "targetVariableSetName": "Primatives"
+          },
+          "com.figma.isOverride": true
+        }
+      },
+      "Bold": {
+        "$type": "number",
+        "$value": 4,
+        "$extensions": {
+          "com.figma.variableId": "VariableID:6003:494",
+          "com.figma.scopes": [
+            "STROKE_FLOAT"
+          ],
+          "com.figma.aliasData": {
+            "targetVariableId": "VariableID:a434255b0e807fc4fc82f32c9ab8b07d8f1e3827/-1:-1",
+            "targetVariableName": "Number/Positive/75",
+            "targetVariableSetId": "VariableCollectionId:934daa29146fce42a634f8e657dd622de965ae68/-1:-1",
+            "targetVariableSetName": "Primatives"
+          },
+          "com.figma.isOverride": true
+        }
+      },
+      "Graphic": {
+        "$type": "number",
+        "$value": 8,
+        "$extensions": {
+          "com.figma.variableId": "VariableID:6003:495",
+          "com.figma.scopes": [
+            "STROKE_FLOAT"
+          ],
+          "com.figma.aliasData": {
+            "targetVariableId": "VariableID:c7213274dc15857e6fa6dc98ed4c0ec9a5750cba/-1:-1",
+            "targetVariableName": "Number/Positive/100",
+            "targetVariableSetId": "VariableCollectionId:934daa29146fce42a634f8e657dd622de965ae68/-1:-1",
+            "targetVariableSetName": "Primatives"
+          },
+          "com.figma.isOverride": true
+        }
+      }
+    }
+  },
+  "$extensions": {
+    "com.figma.modeName": "Value"
+  }
+}

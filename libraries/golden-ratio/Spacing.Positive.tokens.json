@@ -1,0 +1,201 @@
+{
+  "Flush": {
+    "$type": "number",
+    "$value": 0,
+    "$extensions": {
+      "com.figma.variableId": "VariableID:6004:436",
+      "com.figma.scopes": [
+        "GAP"
+      ],
+      "com.figma.aliasData": {
+        "targetVariableId": "VariableID:a8f566c000da3f1e7cbe89e5290dc57a8fe21ce1/-1:-1",
+        "targetVariableName": "Number/Positive/0",
+        "targetVariableSetId": "VariableCollectionId:934daa29146fce42a634f8e657dd622de965ae68/-1:-1",
+        "targetVariableSetName": "Primatives"
+      },
+      "com.figma.isOverride": true
+    }
+  },
+  "Tightly related, one unit": {
+    "$type": "number",
+    "$value": 4,
+    "$description": "Very close, nearly touching",
+    "$extensions": {
+      "com.figma.variableId": "VariableID:6004:438",
+      "com.figma.scopes": [
+        "GAP"
+      ],
+      "com.figma.aliasData": {
+        "targetVariableId": "VariableID:a434255b0e807fc4fc82f32c9ab8b07d8f1e3827/-1:-1",
+        "targetVariableName": "Number/Positive/75",
+        "targetVariableSetId": "VariableCollectionId:934daa29146fce42a634f8e657dd622de965ae68/-1:-1",
+        "targetVariableSetName": "Primatives"
+      },
+      "com.figma.isOverride": true
+    }
+  },
+  "Clearly paired, slight breath": {
+    "$type": "number",
+    "$value": 8,
+    "$description": "Small gap, compact feel",
+    "$extensions": {
+      "com.figma.variableId": "VariableID:6004:430",
+      "com.figma.scopes": [
+        "GAP"
+      ],
+      "com.figma.aliasData": {
+        "targetVariableId": "VariableID:c7213274dc15857e6fa6dc98ed4c0ec9a5750cba/-1:-1",
+        "targetVariableName": "Number/Positive/100",
+        "targetVariableSetId": "VariableCollectionId:934daa29146fce42a634f8e657dd622de965ae68/-1:-1",
+        "targetVariableSetName": "Primatives"
+      },
+      "com.figma.isOverride": true
+    }
+  },
+  "Same group, distinct items": {
+    "$type": "number",
+    "$value": 13,
+    "$description": "Slight separation, still tight",
+    "$extensions": {
+      "com.figma.variableId": "VariableID:6004:435",
+      "com.figma.scopes": [
+        "GAP"
+      ],
+      "com.figma.aliasData": {
+        "targetVariableId": "VariableID:5bc6538f337f47a3bfa773418e22781a64ae5b79/-1:-1",
+        "targetVariableName": "Number/Positive/200",
+        "targetVariableSetId": "VariableCollectionId:934daa29146fce42a634f8e657dd622de965ae68/-1:-1",
+        "targetVariableSetName": "Primatives"
+      },
+      "com.figma.isOverride": true
+    }
+  },
+  "Loose group, breathing room": {
+    "$type": "number",
+    "$value": 21,
+    "$description": "Balanced spacing, comfortable",
+    "$extensions": {
+      "com.figma.variableId": "VariableID:6004:431",
+      "com.figma.scopes": [
+        "GAP"
+      ],
+      "com.figma.aliasData": {
+        "targetVariableId": "VariableID:b113252a0ece8c8ddd3281e666c54e8d39d30c3e/-1:-1",
+        "targetVariableName": "Number/Positive/300",
+        "targetVariableSetId": "VariableCollectionId:934daa29146fce42a634f8e657dd622de965ae68/-1:-1",
+        "targetVariableSetName": "Primatives"
+      },
+      "com.figma.isOverride": true
+    }
+  },
+  "Distinct sections, clear gap": {
+    "$type": "number",
+    "$value": 34,
+    "$description": "Noticeable but not excessive",
+    "$extensions": {
+      "com.figma.variableId": "VariableID:6004:433",
+      "com.figma.scopes": [
+        "GAP"
+      ],
+      "com.figma.aliasData": {
+        "targetVariableId": "VariableID:893d3ec7b326a2edf2dba4d6d1d05e9618d52956/-1:-1",
+        "targetVariableName": "Number/Positive/400",
+        "targetVariableSetId": "VariableCollectionId:934daa29146fce42a634f8e657dd622de965ae68/-1:-1",
+        "targetVariableSetName": "Primatives"
+      },
+      "com.figma.isOverride": true
+    }
+  },
+  "Independent, different context": {
+    "$type": "number",
+    "$value": 55,
+    "$description": "Wide gap, open feel",
+    "$extensions": {
+      "com.figma.variableId": "VariableID:6004:427",
+      "com.figma.scopes": [
+        "GAP"
+      ],
+      "com.figma.aliasData": {
+        "targetVariableId": "VariableID:59432a6e8cdf8cb1a6545a7b11ecc3f275a555a2/-1:-1",
+        "targetVariableName": "Number/Positive/500",
+        "targetVariableSetId": "VariableCollectionId:934daa29146fce42a634f8e657dd622de965ae68/-1:-1",
+        "targetVariableSetName": "Primatives"
+      },
+      "com.figma.isOverride": true
+    }
+  },
+  "New section": {
+    "$type": "number",
+    "$value": 89,
+    "$description": "Large distance, airy",
+    "$extensions": {
+      "com.figma.variableId": "VariableID:6004:437",
+      "com.figma.scopes": [
+        "GAP"
+      ],
+      "com.figma.aliasData": {
+        "targetVariableId": "VariableID:ea4c0880e145cef4428d1bcc28a6c2aea59b5d2f/-1:-1",
+        "targetVariableName": "Number/Positive/600",
+        "targetVariableSetId": "VariableCollectionId:934daa29146fce42a634f8e657dd622de965ae68/-1:-1",
+        "targetVariableSetName": "Primatives"
+      },
+      "com.figma.isOverride": true
+    }
+  },
+  "Clear visual break between zones": {
+    "$type": "number",
+    "$value": 144,
+    "$description": "Significant separation",
+    "$extensions": {
+      "com.figma.variableId": "VariableID:6004:429",
+      "com.figma.scopes": [
+        "GAP"
+      ],
+      "com.figma.aliasData": {
+        "targetVariableId": "VariableID:370b0bcf23bba1a934f5b09412fa8fa41e566377/-1:-1",
+        "targetVariableName": "Number/Positive/700",
+        "targetVariableSetId": "VariableCollectionId:934daa29146fce42a634f8e657dd622de965ae68/-1:-1",
+        "targetVariableSetName": "Primatives"
+      },
+      "com.figma.isOverride": true
+    }
+  },
+  "Unrelated, structural separation": {
+    "$type": "number",
+    "$value": 232,
+    "$extensions": {
+      "com.figma.variableId": "VariableID:6004:428",
+      "com.figma.scopes": [
+        "GAP"
+      ],
+      "com.figma.aliasData": {
+        "targetVariableId": "VariableID:f227cf7f2a817f46d57b0e51defdb4dbcb5a86ad/-1:-1",
+        "targetVariableName": "Number/Positive/800",
+        "targetVariableSetId": "VariableCollectionId:934daa29146fce42a634f8e657dd622de965ae68/-1:-1",
+        "targetVariableSetName": "Primatives"
+      },
+      "com.figma.isOverride": true
+    }
+  },
+  "Very far apart": {
+    "$type": "number",
+    "$value": 376,
+    "$description": "Very far apart",
+    "$extensions": {
+      "com.figma.variableId": "VariableID:6004:434",
+      "com.figma.scopes": [
+        "GAP"
+      ],
+      "com.figma.aliasData": {
+        "targetVariableId": "VariableID:8d13bc44a28402f2ff1732a46eb36fb9d2a5f310/-1:-1",
+        "targetVariableName": "Number/Positive/900",
+        "targetVariableSetId": "VariableCollectionId:934daa29146fce42a634f8e657dd622de965ae68/-1:-1",
+        "targetVariableSetName": "Primatives"
+      },
+      "com.figma.isOverride": true
+    }
+  },
+  "$extensions": {
+    "com.figma.modeName": "Positive"
+  }
+}
