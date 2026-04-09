@@ -163,17 +163,17 @@ export function nameTransform(token: TransformedToken, _config: Config): string 
     return `--color-${hue}-${level}`;
   }
 
-  // ── Colour > Font > Neutral (foreground)
+  // ── Colour > Font > Neutral
   if (path[0] === 'Colour' && path[1] === 'Font' && path[2] === 'Neutral') {
     const level = (path[3] ?? '').toLowerCase().replace(/\s+/g, '-');
-    return `--color-fg-neutral-${level}`;
+    return `--color-font-neutral-${level}`;
   }
 
-  // ── Colour > Font > {Hue} (foreground)
+  // ── Colour > Font > {Hue}
   if (path[0] === 'Colour' && path[1] === 'Font' && path.length === 4) {
     const hue = (path[2] ?? '').toLowerCase();
     const level = (path[3] ?? '').toLowerCase().replace(/\s+/g, '-');
-    return `--color-fg-${hue}-${level}`;
+    return `--color-font-${hue}-${level}`;
   }
 
   // ── Colour > Icon > {name}

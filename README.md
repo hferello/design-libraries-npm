@@ -59,7 +59,7 @@ Semantic layer for non-Tailwind consumers. Imports `primitives.css` and defines 
   --opacity-high: calc(var(--primitive-number-700) / 100);
   --text-base: var(--primitive-number-500);
   --color-neutral-base: var(--primitive-color-neutral-0);
-  --color-fg-neutral-aa: var(--primitive-color-neutral-500);
+  --color-font-neutral-aa: var(--primitive-color-neutral-500);
   --color-overlay-8: var(--primitive-color-neutral-transparent-black-100);
   /* ... */
 }
@@ -125,7 +125,7 @@ Tailwind utility examples:
 
 ```html
 <div class="p-tight gap-section rounded-soft blur-void">
-  <p class="text-base text-fg-neutral-aa bg-neutral-faint">Hello</p>
+  <p class="text-base text-font-neutral-aa bg-neutral-faint">Hello</p>
 </div>
 ```
 
@@ -148,7 +148,7 @@ Non-namespace tokens require arbitrary value syntax:
 | Font sizes (7 values) | `--text-*` | `text-xs`, `text-base`, `text-2xl` |
 | Border radius (6 values) | `--radius-*` | `rounded-soft`, `rounded-pill` |
 | Blur (4 values) | `--blur-*` | `blur-soft`, `blur-void` |
-| All colours | `--color-*` | `bg-neutral-base`, `text-fg-neutral-aa` |
+| All colours | `--color-*` | `bg-neutral-base`, `text-font-neutral-aa` |
 
 ### Outside `@theme` (plain CSS variables)
 
