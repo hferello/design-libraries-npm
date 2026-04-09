@@ -1,9 +1,16 @@
 {
-  "name": "@hal/design-tokens",
+  "name": "@hferello/design-libraries-npm",
   "version": "0.1.0",
   "description": "Design token build pipeline: Figma DTCG → CSS custom properties + Tailwind v4 theme",
   "license": "MIT",
-  "homepage": "https://github.com/hferello/",
+  "homepage": "https://github.com/hferello/design-libraries-npm",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hferello/design-libraries-npm.git"
+  },
+  "bugs": {
+    "url": "https://github.com/hferello/design-libraries-npm/issues"
+  },
   "type": "module",
   "files": [
     "dist",

@@ -1,4 +1,4 @@
-# @hal/design-tokens
+# @hferello/design-libraries-npm
 
 Style Dictionary v4 pipeline that transforms Figma-exported DTCG token JSON files into alias-preserving CSS custom properties and a Tailwind v4 `@theme` configuration.
 
@@ -113,12 +113,12 @@ Tailwind v4 entry point. Alternative to `tokens.css` (not stacked on top of it).
 
 ```css
 /* app/globals.css — Tailwind project */
-@import "@hal/design-tokens/typographic-ratio/tailwind-theme.css";
+@import "@hferello/design-libraries-npm/typographic-ratio/tailwind-theme.css";
 ```
 
 ```css
 /* app/globals.css — non-Tailwind project */
-@import "@hal/design-tokens/typographic-ratio/tokens.css";
+@import "@hferello/design-libraries-npm/typographic-ratio/tokens.css";
 ```
 
 Tailwind utility examples:
