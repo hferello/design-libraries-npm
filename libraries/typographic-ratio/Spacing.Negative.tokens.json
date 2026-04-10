@@ -108,28 +108,10 @@
   },
   "Independent, different context": {
     "$type": "number",
-    "$value": 36,
+    "$value": -48,
     "$description": "Wide gap, open feel",
     "$extensions": {
       "com.figma.variableId": "VariableID:6004:427",
-      "com.figma.scopes": [
-        "GAP"
-      ],
-      "com.figma.aliasData": {
-        "targetVariableId": "VariableID:66f60948100bba37f11f9f7239ae6af8f1de3f29/-1:-1",
-        "targetVariableName": "Number/Positive/700",
-        "targetVariableSetId": "VariableCollectionId:81b8ff39b08d71fc907e43b02aba96ad4c38f1bf/-1:-1",
-        "targetVariableSetName": "Primatives"
-      },
-      "com.figma.isOverride": true
-    }
-  },
-  "New section": {
-    "$type": "number",
-    "$value": -48,
-    "$description": "Large distance, airy",
-    "$extensions": {
-      "com.figma.variableId": "VariableID:6004:437",
       "com.figma.scopes": [
         "GAP"
       ],
@@ -142,9 +124,27 @@
       "com.figma.isOverride": true
     }
   },
+  "New section": {
+    "$type": "number",
+    "$value": -60,
+    "$description": "Large distance, airy",
+    "$extensions": {
+      "com.figma.variableId": "VariableID:6004:437",
+      "com.figma.scopes": [
+        "GAP"
+      ],
+      "com.figma.aliasData": {
+        "targetVariableId": "VariableID:55499856e8c42317fdee2dbd987b3476f411eda0/-1:-1",
+        "targetVariableName": "Number/Negative/900",
+        "targetVariableSetId": "VariableCollectionId:81b8ff39b08d71fc907e43b02aba96ad4c38f1bf/-1:-1",
+        "targetVariableSetName": "Primatives"
+      },
+      "com.figma.isOverride": true
+    }
+  },
   "Clear visual break between zones": {
     "$type": "number",
-    "$value": 60,
+    "$value": 72,
     "$description": "Significant separation",
     "$extensions": {
       "com.figma.variableId": "VariableID:6004:429",
@@ -152,8 +152,8 @@
         "GAP"
       ],
       "com.figma.aliasData": {
-        "targetVariableId": "VariableID:53e5cd3cc5407e0fbd77fd907532ea19293e6f1b/-1:-1",
-        "targetVariableName": "Number/Positive/900",
+        "targetVariableId": "VariableID:56065a6e41cbf527a31bd2da232832cc79655893/-1:-1",
+        "targetVariableName": "Number/Positive/1000",
         "targetVariableSetId": "VariableCollectionId:81b8ff39b08d71fc907e43b02aba96ad4c38f1bf/-1:-1",
         "targetVariableSetName": "Primatives"
       },
@@ -162,15 +162,15 @@
   },
   "Unrelated, structural separation": {
     "$type": "number",
-    "$value": -72,
+    "$value": -96,
     "$extensions": {
       "com.figma.variableId": "VariableID:6004:428",
       "com.figma.scopes": [
         "GAP"
       ],
       "com.figma.aliasData": {
-        "targetVariableId": "VariableID:2b5e1dd23234faf4806cf84428af30e9428b62af/-1:-1",
-        "targetVariableName": "Number/Negative/1000",
+        "targetVariableId": "VariableID:3ca53f5ec01c02d7f48e08eccf772e3c23884582/-1:-1",
+        "targetVariableName": "Number/Negative/1100",
         "targetVariableSetId": "VariableCollectionId:81b8ff39b08d71fc907e43b02aba96ad4c38f1bf/-1:-1",
         "targetVariableSetName": "Primatives"
       },

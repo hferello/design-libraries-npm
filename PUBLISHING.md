@@ -20,6 +20,7 @@ This project is published to GitHub Packages as:
 2. Verify locally:
 
 ```bash
+npm run build
 npm run verify
 npm pack --dry-run
 ```
