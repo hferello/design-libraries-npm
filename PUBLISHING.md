@@ -2,7 +2,7 @@
 
 This project is published to GitHub Packages as:
 
-- `@hferello/design-libraries-npm`
+- `@hferello/number-system-npm`
 - Registry: `https://npm.pkg.github.com`
 
 ## Prerequisites
