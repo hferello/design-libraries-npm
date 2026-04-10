@@ -31,9 +31,26 @@
       },
       "Small": {
         "$type": "number",
-        "$value": 20,
+        "$value": 15,
         "$extensions": {
           "com.figma.variableId": "VariableID:6004:378",
+          "com.figma.scopes": [
+            "FONT_SIZE"
+          ],
+          "com.figma.aliasData": {
+            "targetVariableId": "VariableID:9130a92bf38abe15107f6133c7fba52b8f36279e/-1:-1",
+            "targetVariableName": "Number/Positive/250",
+            "targetVariableSetId": "VariableCollectionId:1da749344149f656f06edff0db373b03caf4adc9/-1:-1",
+            "targetVariableSetName": "Primatives"
+          },
+          "com.figma.isOverride": true
+        }
+      },
+      "Regular": {
+        "$type": "number",
+        "$value": 20,
+        "$extensions": {
+          "com.figma.variableId": "VariableID:6004:381",
           "com.figma.scopes": [
             "FONT_SIZE"
           ],
@@ -46,11 +63,28 @@
           "com.figma.isOverride": true
         }
       },
-      "Regular": {
+      "Medium": {
+        "$type": "number",
+        "$value": 30,
+        "$extensions": {
+          "com.figma.variableId": "VariableID:6004:382",
+          "com.figma.scopes": [
+            "FONT_SIZE"
+          ],
+          "com.figma.aliasData": {
+            "targetVariableId": "VariableID:b14b3de18931b59908690476a40b4fad259d2066/-1:-1",
+            "targetVariableName": "Number/Positive/400",
+            "targetVariableSetId": "VariableCollectionId:1da749344149f656f06edff0db373b03caf4adc9/-1:-1",
+            "targetVariableSetName": "Primatives"
+          },
+          "com.figma.isOverride": true
+        }
+      },
+      "Large": {
         "$type": "number",
         "$value": 40,
         "$extensions": {
-          "com.figma.variableId": "VariableID:6004:381",
+          "com.figma.variableId": "VariableID:6004:377",
           "com.figma.scopes": [
             "FONT_SIZE"
           ],
@@ -63,11 +97,11 @@
           "com.figma.isOverride": true
         }
       },
-      "Medium": {
+      "XLarge": {
         "$type": "number",
         "$value": 50,
         "$extensions": {
-          "com.figma.variableId": "VariableID:6004:382",
+          "com.figma.variableId": "VariableID:6004:376",
           "com.figma.scopes": [
             "FONT_SIZE"
           ],
@@ -80,51 +114,17 @@
           "com.figma.isOverride": true
         }
       },
-      "Large": {
-        "$type": "number",
-        "$value": 60,
-        "$extensions": {
-          "com.figma.variableId": "VariableID:6004:377",
-          "com.figma.scopes": [
-            "FONT_SIZE"
-          ],
-          "com.figma.aliasData": {
-            "targetVariableId": "VariableID:41f1dd55bb440458ea5a7c7bfcfd21c588236ca8/-1:-1",
-            "targetVariableName": "Number/Positive/700",
-            "targetVariableSetId": "VariableCollectionId:1da749344149f656f06edff0db373b03caf4adc9/-1:-1",
-            "targetVariableSetName": "Primatives"
-          },
-          "com.figma.isOverride": true
-        }
-      },
-      "XLarge": {
-        "$type": "number",
-        "$value": 80,
-        "$extensions": {
-          "com.figma.variableId": "VariableID:6004:376",
-          "com.figma.scopes": [
-            "FONT_SIZE"
-          ],
-          "com.figma.aliasData": {
-            "targetVariableId": "VariableID:aac3945e053be97d1325aa75ebb262bf49e76ecf/-1:-1",
-            "targetVariableName": "Number/Positive/900",
-            "targetVariableSetId": "VariableCollectionId:1da749344149f656f06edff0db373b03caf4adc9/-1:-1",
-            "targetVariableSetName": "Primatives"
-          },
-          "com.figma.isOverride": true
-        }
-      },
       "XXLarge": {
         "$type": "number",
-        "$value": 80,
+        "$value": 60,
         "$extensions": {
           "com.figma.variableId": "VariableID:6004:375",
           "com.figma.scopes": [
             "FONT_SIZE"
           ],
           "com.figma.aliasData": {
-            "targetVariableId": "VariableID:aac3945e053be97d1325aa75ebb262bf49e76ecf/-1:-1",
-            "targetVariableName": "Number/Positive/900",
+            "targetVariableId": "VariableID:41f1dd55bb440458ea5a7c7bfcfd21c588236ca8/-1:-1",
+            "targetVariableName": "Number/Positive/700",
             "targetVariableSetId": "VariableCollectionId:1da749344149f656f06edff0db373b03caf4adc9/-1:-1",
             "targetVariableSetName": "Primatives"
           },
