@@ -1,6 +1,6 @@
 {
   "name": "@hferello/number-system-npm",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "Design token build pipeline: Figma DTCG → CSS custom properties + Tailwind v4 theme",
   "license": "MIT",
   "homepage": "https://github.com/hferello/number-system-npm",
